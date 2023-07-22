@@ -1,3 +1,4 @@
-torch=2.0.0+cu118
-transformers=4.31.0
-flask=2.1.2
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.0+cu118
+transformers==4.31.0
+flask==2.1.2
